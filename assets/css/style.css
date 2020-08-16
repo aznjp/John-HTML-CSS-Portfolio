@@ -156,7 +156,8 @@ header nav ul li a {
     text-align: left;
     width: 70%;
     padding-left: 30px;
-    font-size: 24px;
+    font-size: 30px;
+    align-items: center;
 }
 
 
@@ -396,7 +397,7 @@ footer h2 {
         /* Decreases the size of the required container for the information to match the increasing picture size */
         width: 55%;
         padding-left: 15px;
-        font-size: 18px;
+        font-size: 22px;
     }
     .container ul li {
         margin: 0 auto;
